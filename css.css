@@ -1,8 +1,9 @@
 p {
   color: red;
-  font-size: 15px;
+  font-size: 20px;
   font-family: "Comic Sans MS", cursive, sans-serif;
   background-color: #FFF;
+  text-align: center;
 }
 
 * {
@@ -22,10 +23,6 @@ img {
   width: 30vw;
   display: block;
   margin: auto;
-}
-
-image-div {
-  
 }
 
 .link {
