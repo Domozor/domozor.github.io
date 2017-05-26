@@ -21,7 +21,7 @@ img {
 
 .link {
   position: absolute;
-  top: 70vh;
+  top: 90vh;
 }
 
 body {
@@ -30,7 +30,7 @@ body {
 
 #button {
   position: absolute;
-  top: 60vh;
+  top: 80vh;
 }
 
 #color {
@@ -39,4 +39,5 @@ body {
   background-color: cyan;
   padding: 0;
   margin:0;
+  animation: all 10s;
 }
