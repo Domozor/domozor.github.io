@@ -29,7 +29,6 @@ body {
 }
 
 #button {
-  position: relative;
   top: 80vh;
   float: left;
 }
