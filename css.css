@@ -29,16 +29,16 @@ body {
 }
 
 #button {
-  top: 80vh;
+  top: 80%;
   float: left;
 }
 
 #color {
-  height:100px;
+  height:150px;
   width:100vw;
-  background-color: cyan;
+  background-color: #0018d1;
   padding: 0;
-  margin:0;
+  margin: 0;
   transition: all 3s ease;
   text-align: center;
   font-size: 250px;
