@@ -5,6 +5,11 @@ p {
   background-color: #FFF;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
 a {
   color: red;
 }
@@ -36,10 +41,9 @@ body {
   height:150px;
   width:100vw;
   background-color: #1183E8;
-  padding: 10;
-  margin: 10;
   transition: all 3s ease;
   text-align: center;
   font-size: 150px;
   color: #1183E8;
 }
+
