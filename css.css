@@ -39,8 +39,7 @@ body {
   position: absolute;
   top: 65vh;
   left: 20vw;
-  height: 50px;
-  width: 100px;
+  font-size: 20px;
 }
 
 #color {
