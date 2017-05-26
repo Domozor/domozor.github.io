@@ -29,9 +29,9 @@ image-div {
 }
 
 .link {
- /* position: absolute;
+  position: absolute;
   top: 65vh;
-  */
+  right: 20vw
 }
 
 body {
@@ -39,7 +39,9 @@ body {
 }
 
 #button {
-  
+  position: absolute;
+  top: 65vh;
+  left: 20vw
 }
 
 #color {
