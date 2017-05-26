@@ -29,8 +29,7 @@ body {
 }
 
 #button {
-  top: 80%;
-  float: left;
+  
 }
 
 #color {
@@ -41,5 +40,6 @@ body {
   margin: 0;
   transition: all 3s ease;
   text-align: center;
-  font-size: 250px;
+  font-size: 150px;
+  color: #1183E8;
 }
