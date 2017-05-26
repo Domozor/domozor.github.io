@@ -1,3 +1,3 @@
 function click() {
-  alert("Hello");
+  confirm("Hello");
 }
