@@ -3,6 +3,10 @@ p {
 }
 
 a {
+  color: red;
+}
+
+a:hover {
   color: orange;
 }
 
@@ -20,3 +24,10 @@ img {
 body {
   background-color: #0018d1;
 }
+
+p:hover {
+  color: orange;
+  font-size: 50px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
