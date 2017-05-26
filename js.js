@@ -6,5 +6,7 @@ button.onclick = function () {
   color.innerHTML = "Hello";
   color.style.height = 200 + "px";
   color.style.color = "black";
+  alert("Hello!");
 }
+
 
