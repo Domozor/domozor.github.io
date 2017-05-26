@@ -18,9 +18,13 @@ a:hover {
   color: orange;
 }
 
-image-div {
-  float: center;
+img {
   width: 30vw;
+  display: block;
+}
+
+image-div {
+  
 }
 
 .link {
