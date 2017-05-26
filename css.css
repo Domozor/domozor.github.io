@@ -32,3 +32,9 @@ body {
   position: absolute;
   top: 60vh;
 }
+
+#color {
+  height:100px;
+  width:100px;
+  background-color: cyan;
+}
