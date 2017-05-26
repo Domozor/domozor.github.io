@@ -26,10 +26,11 @@ img {
   margin: auto;
 }
 
-.link {
+#button-link {
   position: absolute;
   top: 65vh;
   right: 10vw;
+  padding: 30px 50px;
 }
 
 body {
