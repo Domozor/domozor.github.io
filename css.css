@@ -19,8 +19,8 @@ a:hover {
 }
 
 img {
-  float:left;
-  width: 100vw;
+  float:center;
+  width: 75vw;
 }
 
 .link {
