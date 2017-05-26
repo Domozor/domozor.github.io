@@ -1,3 +1,7 @@
 p {
-background-color: #2D2D2D;
+  background-color: #2D2D2D;
+}
+
+a {
+  color: blue;
 }
