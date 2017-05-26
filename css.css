@@ -21,7 +21,7 @@ img {
 
 .link {
   position: absolute;
-  top: 60vh;
+  top: 70vh;
 }
 
 body {
@@ -30,5 +30,5 @@ body {
 
 #button {
   position: absolute;
-  top: 70vh;
+  top: 60vh;
 }
