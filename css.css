@@ -13,6 +13,7 @@ p {
 
 a {
   color: red;
+  font-size: 16px;
 }
 
 a:hover {
@@ -29,7 +30,7 @@ img {
   position: absolute;
   top: 65vh;
   right: 10vw;
-  font-size: 16px;
+  
   padding: 30px 50px;
 }
 
