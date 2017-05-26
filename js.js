@@ -5,5 +5,6 @@ button.onclick = function () {
   color.style.backgroundColor = "#00FF6A";
   color.innerHTML = "Hello";
   color.style.height = 300 + "px";
+  color.style.color = "black";
 }
 
