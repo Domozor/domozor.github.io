@@ -40,4 +40,6 @@ body {
   padding: 0;
   margin:0;
   transition: all 3s ease;
+  text-align: center;
+  font-size: 100px;
 }
