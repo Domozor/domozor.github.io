@@ -29,8 +29,9 @@ image-div {
 }
 
 .link {
-  position: absolute;
+ /* position: absolute;
   top: 65vh;
+  */
 }
 
 body {
