@@ -20,7 +20,7 @@ img {
 }
 
 .link {
-  position: absolute;
+  position: relative;
   top: 90vh;
 }
 
@@ -29,7 +29,7 @@ body {
 }
 
 #button {
-  position: absolute;
+  position: relative;
   top: 80vh;
 }
 
