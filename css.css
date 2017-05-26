@@ -1,5 +1,4 @@
 p {
-  background-color: #2D2D2D;
   color: red;
 }
 
@@ -15,5 +14,9 @@ img {
 
 .link {
   position: absolute;
-  top: 55vh;
+  top: 60vh;
+}
+
+body {
+  background-color: #0018d1;
 }
